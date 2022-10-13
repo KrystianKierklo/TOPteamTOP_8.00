@@ -1,6 +1,11 @@
 # TOPteamTOP_8.00
 Repozytorium na potrzeby przedmiotu inżynieria oprogramowania
 
+Skład zespołu :point_down:
+:arrow_right: Igor Kawczyński
+:arrow_right: Krystian Kierklo
+:arrow_right: Adam Trentowski
+:arrow_right: Grzegorz Krych
 
 PROPOZYCJE TEMATÓW DO PROJEKTU:
 
@@ -33,6 +38,9 @@ Liga kortowska ( LKPN ) - system do zarządzania ligą piłkarską (na Kortowie)
 --Funkcjonalności dla klubu ( piłkarze i kapitan ) :
 1. Zarządzanie klubem - tylko kapitan
 2. Zgłaszanie zawodników do meczu i na ławkę
+
+
+
 
 Temat numer 2:
 -UberEats
