@@ -2,6 +2,7 @@
 Repozytorium na potrzeby przedmiotu inżynieria oprogramowania
 
 Skład zespołu :point_down:
+
 :arrow_right: Igor Kawczyński
 :arrow_right: Krystian Kierklo
 :arrow_right: Adam Trentowski
@@ -41,15 +42,3 @@ Liga kortowska ( LKPN ) - system do zarządzania ligą piłkarską (na Kortowie)
 
 
 
-
-Temat numer 2:
--UberEats
-1. Możliwość zamawiania żywności z różnorodnych restaruacji na terenie Polski
-2. Możliwy kurier/odbiór osobisty
-3. Przyjazny interfejs :)
-
-Temat numer 3:
--Lombard
-1. Możliwość sprzedaży, zastawienia przedmiotów
-2. Zarządzanie całą firmą
-3. Przyjazny interfejs dla klienta jak i pracowników przedsiębiorstwa
