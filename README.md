@@ -6,7 +6,7 @@ PROPOZYCJE TEMATÓW DO PROJEKTU:
 
 TEMAT NUMER :one: (główny)
 
-Liga kortowska ( LKPN )
+Liga kortowska ( LKPN ) - system do zarządzania ligą piłkarską (na Kortowie)
 1. Tabela ligi (tylko sędzia może zmieniać dane, wyniki itd)
 2. Lista zespołów - wchodzisz w jakiś klub i tam masz pole i kto na jakiej pozycji gra, forma itd itp jak w Fifie
 3. Losowo generowany terminarz meczy
@@ -16,7 +16,8 @@ Liga kortowska ( LKPN )
 
 
 --Funkcjonalnosci admina
-1. Akceptowanie różnych zjawisk (rezerwacja meczy, sprzętu, zakładanie klubów)
+1. Akceptowanie różnych zjawisk (rezerwacja meczy, sprzętu, zakładanie klubów, transfery...)
+2. Zarządzanie środowiskiem strony, konserwacja
 
 --Funkcjonalności dla sędziów :
 1. Zarządzanie tabela (wyniki)
@@ -35,6 +36,12 @@ Liga kortowska ( LKPN )
 
 Temat numer 2:
 -UberEats
+1. Możliwość zamawiania żywności z różnorodnych restaruacji na terenie Polski
+2. Możliwy kurier/odbiór osobisty
+3. Przyjazny interfejs :)
 
 Temat numer 3:
 -Lombard
+1. Możliwość sprzedaży, zastawienia przedmiotów
+2. Zarządzanie całą firmą
+3. Przyjazny interfejs dla klienta jak i pracowników przedsiębiorstwa
