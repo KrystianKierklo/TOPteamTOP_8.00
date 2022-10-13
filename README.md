@@ -45,3 +45,7 @@ Temat numer 3:
 1. Możliwość sprzedaży, zastawienia przedmiotów
 2. Zarządzanie całą firmą
 3. Przyjazny interfejs dla klienta jak i pracowników przedsiębiorstwa
+
+
+![image](https://user-images.githubusercontent.com/73948605/195522928-cfc54ac3-b4d3-4e8c-ad3a-dd10e8b0526a.png)
+
