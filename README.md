@@ -5,7 +5,8 @@
 ![200763358-338d6953-4774-43ac-aa00-1d5ad81a7c94](https://user-images.githubusercontent.com/73948605/200927891-a361bf58-29bf-4dcd-97f2-aff3995c248c.png)
 
 
-Repozytorium na potrzeby przedmiotu inżynieria oprogramowania
+<h2>Repozytorium na potrzeby przedmiotu inżynieria oprogramowania</h2>
+<h3>Projekt "Kortowska Liga Piłki Nożnej" - System (aplikacja webowa) do zarządzania rozgrywkami ligowymi na terenie Uniwersytetu Warmińsko-Mazurskiego w Olsztynie a także do zarządzania boiskami, sprzętem sportowym i rezerwacjami terminów do rozgrywania meczów dla amatorów</h3>
 
 Skład zespołu :point_down:
 
