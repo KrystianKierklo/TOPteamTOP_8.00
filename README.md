@@ -1,7 +1,6 @@
 <div align="center">
-# TOPteamTOP_8.00 
-
-
+#
+<b>TOPteamTOP_8.00</b>
 ![logo](https://user-images.githubusercontent.com/73948612/200763358-338d6953-4774-43ac-aa00-1d5ad81a7c94.png)
 </div>
 
