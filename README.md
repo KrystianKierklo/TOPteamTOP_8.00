@@ -1,9 +1,9 @@
 <div align="center">
 #
-<b>TOPteamTOP_8.00</b>
-  
-![logo](https://user-images.githubusercontent.com/73948612/200763358-338d6953-4774-43ac-aa00-1d5ad81a7c94.png)
-</div>
+<h1><b>TOPteamTOP_8.00</b></h1>
+
+![200763358-338d6953-4774-43ac-aa00-1d5ad81a7c94](https://user-images.githubusercontent.com/73948605/200927891-a361bf58-29bf-4dcd-97f2-aff3995c248c.png)
+
 
 Repozytorium na potrzeby przedmiotu inżynieria oprogramowania
 
