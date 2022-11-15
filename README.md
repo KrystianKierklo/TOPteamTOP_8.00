@@ -27,14 +27,14 @@ TEMAT NUMER :one: (główny)
 Liga kortowska ( LKPN ) - system do zarządzania ligą piłkarską (na Kortowie)
 1. Tabela ligi (tylko sędzia może zmieniać dane, wyniki itd)
 2. Lista zespołów - wchodzisz w jakiś klub i tam masz pole i kto na jakiej pozycji gra, forma itd itp jak w Fifie
-3. Losowo generowany terminarz meczy
+3. Losowo generowany terminarz meczów
 4. Transfery
 5. Formy zawodników
 6. Terminarz meczów i rezerwacja boisk dla amatorów (podgląd)
 
 
 --Funkcjonalnosci admina
-1. Akceptowanie różnych zjawisk (rezerwacja meczy, sprzętu, zakładanie klubów, transfery...)
+1. Akceptowanie różnych zjawisk (rezerwacja meczów, sprzętu, zakładanie klubów, transfery...)
 2. Zarządzanie środowiskiem strony, konserwacja
 
 --Funkcjonalności dla sędziów :
@@ -44,7 +44,7 @@ Liga kortowska ( LKPN ) - system do zarządzania ligą piłkarską (na Kortowie)
 
 --Funkcjonalności dla amatorów :
 1. Rezerwacja boisk i sprzętu
-2. Lista meczy
+2. Lista meczów
 3. Podkład wyników, tabel, klubów
 4. Zakładanie klubu
 
