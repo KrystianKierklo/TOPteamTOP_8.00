@@ -13,7 +13,7 @@ Skład zespołu :point_down:
 
 :arrow_right: Igor Kawczyński
 
-:arrow_right: Krystian Kierklo
+:arrow_right: Krystian Kierklo (kierownik)
 
 :arrow_right: Adam Trentowski
 
