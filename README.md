@@ -5,15 +5,14 @@
 ![200763358-338d6953-4774-43ac-aa00-1d5ad81a7c94](https://user-images.githubusercontent.com/73948605/200927891-a361bf58-29bf-4dcd-97f2-aff3995c248c.png)
 
 
-<h2>Repozytorium na potrzeby przedmiotu inżynieria oprogramowania</h2>
-<h3>Projekt "Kortowska Liga Piłki Nożnej" - System (aplikacja webowa) do zarządzania rozgrywkami ligowymi na terenie Uniwersytetu Warmińsko-Mazurskiego w Olsztynie a także do zarządzania boiskami, sprzętem sportowym i rezerwacjami terminów do rozgrywania meczów dla amatorów</h3>
+<h2>Repozytorium na potrzeby przedmiotu Inżynieria Oprogramowania</h2>
+<h3>Projekt "Kortowska Liga Piłki Nożnej" - System (aplikacja webowa) do zarządzania rozgrywkami ligowymi na terenie Uniwersytetu Warmińsko-Mazurskiego w Olsztynie, a także do zarządzania rezerwacjami boisk przez amatorów (osoby nie grające w lidze)</h3>
 
 Skład zespołu :point_down:
 
+:arrow_right: Krystian Kierklo (kierownik)
 
 :arrow_right: Igor Kawczyński
-
-:arrow_right: Krystian Kierklo (kierownik)
 
 :arrow_right: Adam Trentowski
 
@@ -22,35 +21,30 @@ Skład zespołu :point_down:
 
 PROPOZYCJE TEMATÓW DO PROJEKTU:
 
-TEMAT NUMER :one: (główny)
+TEMAT NUMER :one: (główny) - wybrany
 
-Liga kortowska ( LKPN ) - system do zarządzania ligą piłkarską (na Kortowie)
+Kortowska Liga Piłki Nożnej (KLPN) - system do zarządzania ligą piłkarską na terenie Kortowa
 1. Tabela ligi (tylko sędzia może zmieniać dane, wyniki itd)
-2. Lista zespołów - wchodzisz w jakiś klub i tam masz pole i kto na jakiej pozycji gra, forma itd itp jak w Fifie
+2. Lista zespołów - możliwość dokładnego sprawdzenia zespołu (kto gra na jakiej pozycji, z jakim numerem na koszulce, czy jest ostatnio w formie (jak w Fifie))
 3. Losowo generowany terminarz meczów
 4. Transfery
-5. Formy zawodników
-6. Terminarz meczów i rezerwacja boisk dla amatorów (podgląd)
-
+5. Formy zawodników (wyżej wspomniane)
+6. Podgląd harmonogramu meczów i rezerwacja boisk dla amatorów (osób nie grających w lidze)
 
 --Funkcjonalnosci admina
-1. Akceptowanie różnych zjawisk (rezerwacja meczów, sprzętu, zakładanie klubów, transfery...)
+1. Akceptowanie różnych zdarzeń (rezerwacja meczów, zakładanie drużyn, transferów, zmian terminów itp.)
 2. Zarządzanie środowiskiem strony, konserwacja
 
---Funkcjonalności dla sędziów :
-1. Zarządzanie tabela (wyniki)
-2. Zarządzanie formami zawodnik
-3. Zarządzanie wartością zawodników do transferów
+--Funkcjonalności dla sędziów:
+1. Zarządzanie tabelą (wyniki)
+2. Zarządzanie formami zawodników
 
---Funkcjonalności dla amatorów :
-1. Rezerwacja boisk i sprzętu
-2. Lista meczów
-3. Podkład wyników, tabel, klubów
-4. Zakładanie klubu
+--Funkcjonalności dla amatorów:
+1. Rezerwacja boisk
+2. Podgląd harmonogramu meczów
+3. Podgląd wyników, tabeli, drużyn
+4. (O ile jest studentem) założenie drużyny grającej w lidze
 
---Funkcjonalności dla klubu ( piłkarze i kapitan ) :
-1. Zarządzanie klubem - tylko kapitan
-2. Zgłaszanie zawodników do meczu i na ławkę
-
-
-
+--Funkcjonalności dla drużyny KLPN (piłkarze i kapitan):
+1. Zarządzanie drużyną - tylko kapitan
+2. Zgłaszanie zawodników do meczu
