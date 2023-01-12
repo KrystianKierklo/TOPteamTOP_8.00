@@ -6,6 +6,7 @@
 
 
 <h2>Repozytorium na potrzeby przedmiotu Inżynieria Oprogramowania</h2>
+<h2>Link do implementacji projektowej : https://github.com/IgorKawczynski/KLPN</h2>
 <h3>Projekt "Kortowska Liga Piłki Nożnej" - System (aplikacja webowa) do zarządzania rozgrywkami ligowymi na terenie Uniwersytetu Warmińsko-Mazurskiego w Olsztynie, a także do zarządzania rezerwacjami boisk przez amatorów (osoby nie grające w lidze)</h3>
 
 Skład zespołu :point_down:
